@@ -57,4 +57,4 @@ volumes:
 
 ## ✍️ Auteur
 
-Jean-Louis — Développeur freelance front-end / intégrateur Odoo débutant
+Thomas Leconte — Développeur freelance front-end / intégrateur Odoo débutant
