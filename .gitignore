@@ -1,0 +1,30 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de logs / temporaires
+*.log
+*.swp
+
+# Environnement virtuel (si utilisé)
+.env
+venv/
+.venv/
+
+# Configuration système ou IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Fichiers de base de données Docker
+odoo-web-data/
+odoo-db-data/
+
+# PyCharm / autres fichiers IDE
+*.iml
+
+# Exclure fichiers/dossiers de déploiement local
+*.db
+*.sql
+*.zip
